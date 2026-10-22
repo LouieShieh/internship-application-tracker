@@ -1,0 +1,6 @@
+company,role,applied_date,status,follow_up_date
+Example Alpha,Software Engineering Intern,2026-10-10,applied,2026-10-20
+Example Beta,QA Intern,2026-10-12,interview,2026-10-22
+Example Gamma,Data Intern,2026-10-08,rejected,2026-10-15
+Example Delta,Software Engineering Intern,2026-10-18,applied,2026-10-25
+Example Epsilon,IT Intern,2026-10-19,applied,
