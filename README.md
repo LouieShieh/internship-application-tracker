@@ -3,6 +3,12 @@
 A Python command-line project I'm building to organize internship application records and follow-ups.
 
 ## Status: Work in progress
+- [x] Create fictional sample application data.
+- [x] Load application records from a CSV file.
+- [x] Display company, role, and status.
+- [ ] Summarize applications by status.
+- [ ] Identify applications due for follow-up.
+- [ ] Add input validation and automated tests.
 
 ## Why I'm building this
 
