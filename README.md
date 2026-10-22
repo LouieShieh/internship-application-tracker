@@ -12,29 +12,9 @@ The spreadsheet will remain the place where I enter and update records. This too
 
 Planned first version
 
-Read application records from a CSV file.
-
-Summarize the number of applications in each status.
-
-List active applications whose follow-up dates have arrived.
+Read application records from a CSV file. Summarize the number of applications in each status. List active applications whose follow-up dates have arrived.
 
 Follow-up dates will be entered by the user. The tool will not send messages or submit applications.
-
-Development plan
-
-Define the project scope.
-
-Create fictional sample application data.
-
-Load a CSV file and display application records.
-
-Add application-status summaries.
-
-Add follow-up filtering.
-
-Add input validation and basic tests.
-
-Document tested setup and running instructions.
 
 My first implementation milestone is CSV loading and basic record display. Summaries and follow-up filtering will come afterward.
 
