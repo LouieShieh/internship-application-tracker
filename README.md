@@ -2,6 +2,22 @@
 
 A Python command-line project I'm building to organize internship application records and follow-ups.
 
+## How to run
+
+Python 3 is required. No third-party packages are needed.
+
+Download or clone this repository, open a terminal in the project folder, and run:
+
+```bash
+python3 tracker.py
+```
+
+The program reads `data/example.csv`, displays the five sample application records, and prints:
+
+```text
+Loaded 5 application records
+```
+
 ## Status: Work in progress
 - [x] Create fictional sample application data.
 - [x] Load application records from a CSV file.
